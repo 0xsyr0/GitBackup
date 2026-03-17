@@ -117,7 +117,7 @@ python gh_backup.py --clone --no-forks --owned-only --dest ~/backups/github
 Repository                                         Fork   Private  Size       Last Updated
 -------------------------------------------------------------------------------------------
 0xsyr0/Awesome-Cybersecurity-Handbooks             no     no       18.23 MB   2024-11-03 14:22
-0xsyr0/mimikatz                                    yes    no       9.10 MB    2024-09-18 08:45
+0xsyr0/OSCP                                        yes    no       9.10 MB    2024-09-18 08:45
 ...
 -------------------------------------------------------------------------------------------
   Total: 49 repositories — 97.41 MB
@@ -125,7 +125,7 @@ Repository                                         Fork   Private  Size       La
 [*] Cloning 49 repositories to: ./github_backup
 
   [+] Cloning   : 0xsyr0/Awesome-Cybersecurity-Handbooks  (18.23 MB)
-  [~] Updating  : 0xsyr0/mimikatz
+  [~] Updating  : 0xsyr0/OSCP
   [!] Skipping  : 0xsyr0/SomeRepo
       Reason    : fatal: repository not found
 
