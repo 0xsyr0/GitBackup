@@ -1,6 +1,6 @@
 <div align="center">
   <img src="images/gitbackup.png" alt="gitbackup" width="120"/>
-  <h1>gh-backup</h1>
+  <h1>GitBackup</h1>
   <p>A command-line tool to enumerate and back up all your GitHub repositories using the GitHub API.<br>Supports owned and forked repositories, HTTPS and SSH cloning, and idempotent incremental updates.</p>
 </div>
 
